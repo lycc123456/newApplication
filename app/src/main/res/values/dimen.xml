@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="dp_10px">5dp</dimen>
+    <dimen name="dp_20px">10dp</dimen>
+    <dimen name="dp_30px">15dp</dimen>
+    <dimen name="dp_34px">17dp</dimen>
+    <dimen name="dp_40px">20dp</dimen>
+    <dimen name="dp_50px">25dp</dimen>
+    <dimen name="dp_90px">45dp</dimen>
+
+    <dimen name="sp_30px">15sp</dimen>
+    <dimen name="sp_24px">12sp</dimen>
+    <dimen name="sp_26px">13sp</dimen>
+    <dimen name="sp_28px">14sp</dimen>
+    <dimen name="sp_32px">16sp</dimen>
+    <dimen name="sp_36px">18sp</dimen>
+    <dimen name="sp_40px">20sp</dimen>
+
+    <dimen name="toolBarPaddingTop">0dp</dimen>
+    <dimen name="toolBarHeight">44dp</dimen>
+</resources>
